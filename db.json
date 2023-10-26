@@ -1,0 +1,26 @@
+{  
+  
+  "quizResult": [
+    {
+      "id":1,
+     "userName":"Nani",
+     "correctAnswer":6,
+     "totalAnswer":9
+    },
+    {
+      "id":2,
+      "userName":"somu",
+     "correctAnswer":3,
+     "totalAnswer":10
+        
+    },
+    {
+     
+      "id":3,
+      "userName":"somu",
+     "correctAnswer":3,
+     "totalAnswer":7
+    }
+    
+  ]
+}
