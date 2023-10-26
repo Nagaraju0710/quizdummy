@@ -1,68 +1,70 @@
-[
-  {
-    "name": "Nani",
-    "allRight": 4,
-    "allQuestion": 10,
-    "id": 1
-  },
-  {
-    "name": "Nagaraju",
-    "allRight": 1,
-    "allQuestion": 3,
-    "id": 2
-  },
-  {
-    "name": "raju",
-    "allRight": 4,
-    "allQuestion": 6,
-    "id": 3
-  },
-  {
-    "name": "Naga",
-    "allRight": 1,
-    "allQuestion": 8,
-    "id": 4
-  },
-  {
-    "name": "Namama",
-    "allRight": 3,
-    "allQuestion": 10,
-    "id": 5
-  },
-  {
-    "name": "kolomboi",
-    "allRight": 2,
-    "allQuestion": 2,
-    "id": 6
-  },
-  {
-    "name": "gani",
-    "allRight": 1,
-    "allQuestion": 2,
-    "id": 7
-  },
-  {
-    "name": "kumar",
-    "allRight": 1,
-    "allQuestion": 2,
-    "id": 8
-  },
-  {
-    "name": "laxaman",
-    "allRight": 0,
-    "allQuestion": 5,
-    "id": 9
-  },
-  {
-    "name": "kali",
-    "allRight": 2,
-    "allQuestion": 5,
-    "id": 10
-  },
-  {
-    "name": "manchodu",
-    "allRight": 2,
-    "allQuestion": 3,
-    "id": 11
-  }
-]
+{
+ "dashboard": [
+    {
+      "name": "Nani",
+      "allRight": 4,
+      "allQuestion": 10,
+      "id": 1
+    },
+    {
+      "name": "Nagaraju",
+      "allRight": 1,
+      "allQuestion": 3,
+      "id": 2
+    },
+    {
+      "name": "raju",
+      "allRight": 4,
+      "allQuestion": 6,
+      "id": 3
+    },
+    {
+      "name": "Naga",
+      "allRight": 1,
+      "allQuestion": 8,
+      "id": 4
+    },
+    {
+      "name": "Namama",
+      "allRight": 3,
+      "allQuestion": 10,
+      "id": 5
+    },
+    {
+      "name": "kolomboi",
+      "allRight": 2,
+      "allQuestion": 2,
+      "id": 6
+    },
+    {
+      "name": "gani",
+      "allRight": 1,
+      "allQuestion": 2,
+      "id": 7
+    },
+    {
+      "name": "kumar",
+      "allRight": 1,
+      "allQuestion": 2,
+      "id": 8
+    },
+    {
+      "name": "laxaman",
+      "allRight": 0,
+      "allQuestion": 5,
+      "id": 9
+    },
+    {
+      "name": "kali",
+      "allRight": 2,
+      "allQuestion": 5,
+      "id": 10
+    },
+    {
+      "name": "manchodu",
+      "allRight": 2,
+      "allQuestion": 3,
+      "id": 11
+    }
+  ]
+}
